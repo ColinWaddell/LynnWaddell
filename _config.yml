@@ -2,20 +2,19 @@
 title: Freinds of Dawsholm Park
 subtitle: A Glasgow City community group
 email: friends@dawsholmpark.co.uk
-description: Looking after Glasgow's hidden jungle
+description: Looking after Kelvindale's hidden jungle
 baseurl: "/"
 url: https://dawsholmpark.co.uk/
 author:
 street_address: Dawsholm Park
 city: Glasgow
-state: Scotland
-zip_code: G20 0TF
-country: United Kingdom
+country: Scotland
+postcode: G20 0TF
 phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
 500px_url:

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Visiting
+description: "How to get around the park safely and what you can find"
 nav-menu: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: History
+description: See Dawsholm park 'Then and now'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
