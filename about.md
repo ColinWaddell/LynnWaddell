@@ -4,6 +4,7 @@ layout: landing
 description: 'Information about the park and this community group'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

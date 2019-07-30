@@ -1,5 +1,5 @@
 # site settings
-title: Freinds of Dawsholm Park
+title: Friends of Dawsholm Park
 subtitle: A Glasgow City community group
 email: friends@dawsholmpark.co.uk
 description: Looking after Kelvindale's hidden jungle
@@ -14,7 +14,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 10
+tiles-count: 4
 
 # social settings
 500px_url:
