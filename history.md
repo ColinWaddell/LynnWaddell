@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: History
 description: See Dawsholm park 'Then and now'
 image: assets/images/pic11.jpg
