@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-description: See Dawsholm park 'Then and now'
+description: Description of History
 image: assets/images/pic11.jpg
 nav-menu: true
 show_tile: true

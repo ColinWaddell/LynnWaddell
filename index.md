@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Friends of Dawsholm Park'
+landing-title: 'Lynn Waddell Consultancy'
 description: null
 image: null
 author: null

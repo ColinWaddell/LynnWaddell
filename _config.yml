@@ -1,15 +1,15 @@
 # site settings
-title: Friends of Dawsholm Park
-subtitle: A Glasgow City community group
-email: friends@dawsholmpark.co.uk
-description: Looking after Kelvindale's hidden jungle
+title: Lynn Waddell Consultancy
+subtitle: A Subtitle
+email: contant@lynnwaddell.co.uk
+description: Description
 baseurl: "/"
-url: https://dawsholmpark.co.uk/
+url: https://lynnwaddell.co.uk/
 author:
-street_address: Dawsholm Park
-city: Glasgow
+street_address: Address
+city: City
 country: Scotland
-postcode: G20 0TF
+postcode: Post Code
 phone:
 
 # homepage tiles
